@@ -55,6 +55,14 @@ export function Footer() {
                   Wishlist
                 </Link>
               </li>
+               <li>
+                <Link
+                  href="/admin"
+                  className="text-muted-foreground hover:text-primary transition-colors"
+                >
+                  Admin
+                </Link>
+              </li>
             </ul>
           </div>
 
